@@ -8,7 +8,7 @@ names:
 - seating
 - boundary
 nc: 8
-path: C:\Users\user\Documents\lab\data
+path: C:\Users\lay\Documents\GitHub\lilacom\data
 test: images/test
 train: images/train
 val: images/val
