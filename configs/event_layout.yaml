@@ -1,0 +1,14 @@
+names:
+- booth
+- stage
+- exit
+- entrance
+- restroom
+- food_area
+- seating
+- boundary
+nc: 8
+path: C:\Users\user\Documents\lab\data
+test: images/test
+train: images/train
+val: images/val

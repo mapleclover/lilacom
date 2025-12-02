@@ -1,0 +1,8 @@
+booth
+stage
+exit
+entrance
+restroom
+food_area
+seating
+boundary
