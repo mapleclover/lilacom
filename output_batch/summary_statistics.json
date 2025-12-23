@@ -1,0 +1,107 @@
+{
+  "summary": {
+    "total_images": 13,
+    "total_objects": 2358,
+    "timestamp": "2025-12-23T19:45:02.419685"
+  },
+  "class_statistics": {
+    "booth": {
+      "count": 1705,
+      "percentage": 72.31
+    },
+    "stage": {
+      "count": 40,
+      "percentage": 1.7
+    },
+    "exit": {
+      "count": 24,
+      "percentage": 1.02
+    },
+    "entrance": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "restroom": {
+      "count": 29,
+      "percentage": 1.23
+    },
+    "food_area": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "seating": {
+      "count": 169,
+      "percentage": 7.17
+    },
+    "system": {
+      "count": 11,
+      "percentage": 0.47
+    },
+    "boundary": {
+      "count": 0,
+      "percentage": 0.0
+    },
+    "other": {
+      "count": 260,
+      "percentage": 11.03
+    },
+    "backstage": {
+      "count": 120,
+      "percentage": 5.09
+    }
+  },
+  "per_image_statistics": [
+    {
+      "image_name": "slide1",
+      "num_objects": 133
+    },
+    {
+      "image_name": "slide10",
+      "num_objects": 212
+    },
+    {
+      "image_name": "slide11",
+      "num_objects": 202
+    },
+    {
+      "image_name": "slide12",
+      "num_objects": 156
+    },
+    {
+      "image_name": "slide13",
+      "num_objects": 66
+    },
+    {
+      "image_name": "slide2",
+      "num_objects": 140
+    },
+    {
+      "image_name": "slide3",
+      "num_objects": 135
+    },
+    {
+      "image_name": "slide4",
+      "num_objects": 131
+    },
+    {
+      "image_name": "slide5",
+      "num_objects": 225
+    },
+    {
+      "image_name": "slide6",
+      "num_objects": 176
+    },
+    {
+      "image_name": "slide7",
+      "num_objects": 221
+    },
+    {
+      "image_name": "slide8",
+      "num_objects": 280
+    },
+    {
+      "image_name": "slide9",
+      "num_objects": 281
+    }
+  ]
+}

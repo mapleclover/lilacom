@@ -1,0 +1,8 @@
+# Layout Detection Dataset
+path: C:\Users\user\Documents\lab\files\output_batch\yolo_dataset
+train: images/train
+val: images/train
+
+# Classes
+nc: 11
+names: ['부스', '무대', '출구', '입구', '화장실', '음식구역', '객석', '시스템', '경계선', '기타', '출연진대기실']
